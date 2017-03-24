@@ -1,6 +1,6 @@
-# Taller de edición digital estándar
+# Taller de edición digital
 
-Taller teórico-práctico para aprender el proceso metodológico para desarrollar y publicar libros en diversos formatos, tanto digital como impreso.
+Aprende el proceso metodológico para desarrollar y publicar libros en diversos formatos, tanto digital como impreso.
 
 ![Flyer](taller.jpg)
 
