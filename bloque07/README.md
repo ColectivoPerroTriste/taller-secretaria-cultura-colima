@@ -63,7 +63,7 @@
 ### Vía personalizada
 
 1. Contar con un archivo Markdown.
-2. Utilizar Pandoc o `pt-pandog` para exportar a PDF:
+2. Utilizar Pandoc o `pt-pandog` para crear el archivo de TeX:
 
     ```
     # Ejemplo con las herramientas de Perro Triste
