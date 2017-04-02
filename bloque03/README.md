@@ -2,9 +2,14 @@
 
 ## Recursos
 
+* Digitalización.
+	* [Documentación](https://github.com/ColectivoPerroTriste/Tapancazo)
+	* [ScanTailor](http://scantailor.org/)
+	* [Herramientas para quitar DRM](https://github.com/apprenticeharper/DeDRM_tools)
+
 ## Contenidos del bloque
 
-### Procesos tradicionales de publicación.
+### Procesos tradicionales de publicación
 
 * Proceso básico general.
 	* Generación del contenido (incluso de publicación previa).
@@ -21,10 +26,9 @@
 ![](recursos/imagen01.png)
 
 
-### Los procesos tradicionales en el contexto digital: edición cíclica.
+### Los procesos tradicionales en el contexto digital: edición cíclica
 
-* Limitaciones
-Pensar un proceso editorial solo en función del formato impreso entorpece el trabajo para otros posibles soportes.
+* Limitaciones. Pensar un proceso editorial solo en función del formato impreso entorpece el trabajo para otros posibles soportes.
 	* Se requiere de un proceso de ingeniería inversa:
 		* Digitalización.
 		* Posprocesamiento.
