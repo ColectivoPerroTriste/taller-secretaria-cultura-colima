@@ -4,7 +4,7 @@
 
 * [Adobe InDesign CC](https://www.adobe.com/la/products/indesign.html)
 
-**NOTA**: para Linux se neceita una [máquina virtual](https://www.virtualbox.org/) con Windows.
+**NOTA**: para Linux se necesita una [máquina virtual](https://www.virtualbox.org/) con Windows.
 
 ## Recursos
 
@@ -46,7 +46,7 @@ IBOOKS o MOBI.
 ### XML como formato *de facto* en un sector del mundo editorial
 
 * XML y su relación con la edición.
-  * Permite crear estructuras semánticas de texto.
+  * Permite crear estructuras semánticas de la obra.
   * Posibilita la creación de publicaciones de manera casi automática.
   * Conserva la integridad del documento a través de los años.
   
@@ -71,5 +71,5 @@ o InDesign.
 7. Exportar el archivo a PDF desde InDesign.
 8. ¡Listo!
   * Al ser InDesign una plataforma cerrada, se deberá volver a importar
-  el archivo XML cada vez que se modifique o se recreé el Markdown.
+  el archivo XML cada vez que se modifique externamente o se recreé el Markdown.
   
