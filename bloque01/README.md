@@ -3,20 +3,18 @@
 ## Recursos
 
 * «Historia de la edición digital».
-  * [Descargar como EPUB](https://github.com/NikaZhenya/historia-de-la-edicion-digital/blob/master/ebooks/produccion/historia-de-la-edicion-digital.epub?raw=true).
-  * [Descargar como MOBI](https://github.com/NikaZhenya/historia-de-la-edicion-digital/blob/master/ebooks/produccion/historia-de-la-edicion-digital.mobi?raw=true).
-  * [Descargar como PDF](https://github.com/NikaZhenya/historia-de-la-edicion-digital/raw/master/ebooks/produccion/historia-de-la-edicion-digital.pdf).
+  * [Descargar como EPUB](https://github.com/NikaZhenya/historia-de-la-edicion-digital/blob/master/ebooks/produccion/historia-de-la-edicion-digital.epub?raw=true)
+  * [Descargar como MOBI](https://github.com/NikaZhenya/historia-de-la-edicion-digital/blob/master/ebooks/produccion/historia-de-la-edicion-digital.mobi?raw=true)
+  * [Descargar como PDF](https://github.com/NikaZhenya/historia-de-la-edicion-digital/raw/master/ebooks/produccion/historia-de-la-edicion-digital.pdf)
   * [Leer en línea](https://nikazhenya.gitbooks.io/historia-de-la-edicion-digital/content/).
-* Edición.
-  * [*Track Changes: A literary history of word processing*](https://github.com/ColectivoPerroTriste/taller-secretaria-cultura-colima/raw/master/bloque01/recursos/track-changes.epub).
-  * [*La edición sin editores*](https://github.com/ColectivoPerroTriste/taller-secretaria-cultura-colima/raw/master/bloque01/recursos/edicion-sin-editores.epub).
-  * [*El elogio de los amanuenses*](https://github.com/ColectivoPerroTriste/taller-secretaria-cultura-colima/raw/master/bloque01/recursos/elogio-de-los-amanuenses.epub).
+* Historiade la edición.
+  * [*Track Changes: A literary history of word processing*](https://github.com/ColectivoPerroTriste/taller-secretaria-cultura-colima/raw/master/bloque01/recursos/track-changes.epub)
 * *Software* libre o de código abierto.
-  * [LibreOffice](https://es.libreoffice.org/).
-  * [Scribus](https://www.scribus.net/).
-  * [TeXstudio](http://texstudio.sourceforge.net/).
-  * [Inkscape](https://inkscape.org/es/).
-  * [Gimp](https://www.gimp.org/).
+  * [LibreOffice](https://es.libreoffice.org/)
+  * [Scribus](https://www.scribus.net/)
+  * [TeXstudio](http://texstudio.sourceforge.net/)
+  * [Inkscape](https://inkscape.org/es/)
+  * [Gimp](https://www.gimp.org/)
 
 ## Contenidos del bloque
 
