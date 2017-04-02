@@ -32,63 +32,63 @@ Opcional pero muy recomendado:
 
 #### Bloque 1
 
-1. Breve historia de la edición digital.
+* Breve historia de la edición digital.
 
 #### Bloque 2
 
-2. ¿Qué es la edición digital?
-3. ¿Qué son las publicaciones digitales?
+* ¿Qué es la edición digital?
+* ¿Qué son las publicaciones digitales?
 
 ### Martes
 
 #### Bloque 3
 
-4. Procesos tradicionales de publicación.
-5. Los procesos tradicionales en el contexto digital: edición cíclica.
+* Procesos tradicionales de publicación.
+* Los procesos tradicionales en el contexto digital: edición cíclica.
 
 #### Bloque 4
 
-6. Nuevos procesos de publicación para el contexto digital: edición ramificada.
-7. *Single source and online publishing*.
+* Nuevos procesos de publicación para el contexto digital: edición ramificada.
+* *Single source and online publishing*.
 
 ### Miércoles
 
 #### Bloque 5
 
-8. Formato Markdown como archivo madre.
-9. Del Markdown a *web*.
+* Formato Markdown como archivo madre.
+* Del Markdown a *web*.
 
 #### Bloque 6
 
-10. Del Markdown al EPUB (y MOBI).
+* Del Markdown al EPUB (y MOBI).
 
 ### Jueves
 
 #### Bloque 7
 
-11. Del Markdown al PDF con TeX.
+* Del Markdown al PDF con TeX.
 
 #### Bloque 8
 
-12. Del Markdown al PDF con InDesign.
+* Del Markdown al PDF con InDesign.
 
 ### Viernes
 
 #### Bloque 9
 
-13. Edición digital y propiedad intelectual: más allá del DRM.
+* Edición digital y propiedad intelectual: más allá del DRM.
 
 #### Bloque 10
 
-14. Distribuidores digitales comunes: iTunes, Google Play, Amazon y Gandhi.
+* Distribuidores digitales comunes: iTunes, Google Play, Amazon y Gandhi.
 
 ### Sábado
 
 #### Bloque 11
 
-15. Edición libre y libre acceso: más allá del Creative Commons.
-16. Distribuidores digitales alternativos: Leanpub, Internet Archive, LibGen y Aaaaarg.
+* Edición libre y libre acceso: más allá del Creative Commons.
+* Distribuidores digitales alternativos: Leanpub, Internet Archive, LibGen y Aaaaarg.
 
 #### Bloque 12
 
-17. Edición digital como empoderamiento tecnológico.
+* Edición digital como empoderamiento tecnológico.
