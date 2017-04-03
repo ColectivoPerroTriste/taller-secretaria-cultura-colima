@@ -28,13 +28,13 @@
 	* «Un Archivo para gobernarlos a todos».
 	* De lo general a lo particular.
   
-![](recursos/imagen01.jpg) 
+![](recursos/imagen04-01.jpg) 
  
 * *Online publishing*.
 	* ¡Al servidor!
 	* Repositorio con gestor de versiones (p. ej. git).
 
-![](recursos/imagen02.jpg)
+![](recursos/imagen04-02.jpg)
 
 ### Ventajas del SSOP
 
@@ -47,7 +47,7 @@
 
 ### SSOP con sabor a perro
 
-![](recursos/imagen03.jpg)
+![](recursos/imagen04-03.jpg)
 
 * [Herramientas de Perro Triste](http://herramientas.perrotriste.io/).
 	* Del Markdown a EPUB, PDF, MOBI, *web* y más.

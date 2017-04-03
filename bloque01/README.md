@@ -30,7 +30,7 @@
 	* Masificación de las computadoras personales.
 	* Nacimiento del procesador como *software*.
   
-![](recursos/imagen01.jpg)
+![](recursos/imagen01-01.jpg)
   
 ### De la oficina a la edición digital
 
@@ -39,7 +39,7 @@
 	* Adiós IBM, bienvenido Microsoft.
 	* Microsoft Word como sinónimo de «procesador de texto».
   
-![](recursos/imagen02.jpg)
+![](recursos/imagen01-02.jpg)
   
 * «Guerra» de enfoques.
 	* Enfoque WYSIWYG: *lo que ves es lo que obtienes*.
@@ -47,7 +47,7 @@
 	* Enfoque WYSIWYM: *lo que ves es lo que quieres decir*.
 	* Lenguajes de marcado y WYSIWYM.
 
-![](recursos/imagen03.jpg)
+![](recursos/imagen01-03.jpg)
   
 * Surgimiento del *Dektop plublishing*.
 	* *Software* para *diseño* editorial.
@@ -57,19 +57,19 @@
   
 ### Gestación paralela
 
-![](recursos/imagen04.jpg)
+![](recursos/imagen01-04.jpg)
 
 * Búsqueda de apertura y de libertad.
 	* Libertad de usar, estudiar, distribuir y mejorar un programa.
 	* Procesadores de texto de código abierto.
 	* *Desktop publishing* de código abierto.
 
-![](recursos/imagen05.jpg)
+![](recursos/imagen01-05.jpg)
 
 * TeX, el incomprendido.
 	* La edición hecha código.
 
-![](recursos/imagen06.jpg)
+![](recursos/imagen01-06.jpg)
 
 * Flujo gráfico de trabajo.
 	* Inkscape.
@@ -80,7 +80,7 @@
 * Surgimiento de la «publicación digital»
 	* De la transcripción a la digitalización.
 
-![](recursos/imagen07.jpg)
+![](recursos/imagen01-07.jpg)
 
 * Manejo de versiones.
 	* ¡No más respaldos!

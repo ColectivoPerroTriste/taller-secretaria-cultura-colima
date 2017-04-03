@@ -23,7 +23,7 @@
 	* Diseño y desarrollo.
 	* Formato (EPUB, MOBI, LaTeX, GitBook).
 
-![](recursos/imagen01.png)
+![](recursos/imagen03-01.png)
 
 
 ### Los procesos tradicionales en el contexto digital: edición cíclica
