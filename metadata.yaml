@@ -1,0 +1,12 @@
+---
+title:			Taller de edición digital en La Parota
+author: 		Perro Triste
+lang:			es
+documentclass:		report
+papersize: 		letter
+classoption:		oneside
+top-level-division:	chapter
+toc:			true
+indent:			true
+links-as-notes:		true
+...
