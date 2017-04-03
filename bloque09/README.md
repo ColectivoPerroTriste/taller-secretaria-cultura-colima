@@ -13,6 +13,7 @@
 * Sitios de interés.
 	* [Creative Commons México](http://www.creativecommons.mx/faq/)
 	* [Free Software Foundation](https://www.fsf.org/)
+	* [Libreplanet](https://libreplanet.org/wiki/Main_Page)
 
 ## Contenidos del bloque
 
