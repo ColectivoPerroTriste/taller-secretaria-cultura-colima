@@ -1,4 +1,4 @@
-# Del Markdown al PDF con InDesign
+# De Markdown a PDF con InDesign
 
 ## *Software* necesario
 
@@ -36,10 +36,10 @@
 	* Utiliza una sintaxis similar al HTML.
 * Diferencias entre XML y HTML.
 	* No permite ambigüedades en el etiquetado.
-	* No está pensado para páginas *web*, sino para compartir información entre computadoras.
+	* No está pensado para páginas web, sino para compartir información entre computadoras.
 	* Permite marcas personalizadas según las necesidades del usuario.
 
-> Cuando se desea una página *web* con sitaxis estricta se usa XHTML, una
+> Cuando se desea una página web con sintaxis estricta se usa XHTML, una
 «mezcla» entre XML y HTML. Este formato es muy común para *ebooks*, como EPUB,
 IBOOKS o MOBI.
 
@@ -51,11 +51,11 @@ IBOOKS o MOBI.
 	* Conserva la integridad del documento a través de los años.
   
 > El XML es ampliamente usado en comunidades académicas para compartir
-información en respositorios, así como permite la creación de diversos
+información en repositorios, así como permite la creación de diversos
 formatos como el PDF, a través de [ConTeXt](http://wiki.contextgarden.net/XML)
 o InDesign.
 
-### Pasos para ir del MD al PDF con InDesign
+### Pasos para ir de MD a PDF con InDesign
 
 1. Contar con un archivo Markdown.
 2. Utilizar `pt-pandog` para crear el archivo XML:
@@ -64,7 +64,7 @@ o InDesign.
     pt-pandog -i archivo-a-convertir.md -o archivo.xml
     ```
     
-3. Borrar la primera línea de `archivo.xml` desde un editor de código.
+3. Abrir `archivo.xml` desde un editor de código y borrar la primera línea.
 4. Importar `archivo.xml` a InDesign.
 5. Asociar etiquetas XML con estilos de párrafos o caracteres.
 6. Realizar las modificaciones deseadas o necesarias.

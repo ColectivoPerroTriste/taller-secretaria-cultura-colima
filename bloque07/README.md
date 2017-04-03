@@ -1,4 +1,4 @@
-# Del Markdown al PDF con TeX
+# De Markdown a PDF con TeX
 
 ## *Software* necesario
 
@@ -41,7 +41,7 @@
 	* LaTeX utiliza el sistema de tipografía TeX con configuraciones predefinidas,
   facilitando su uso.
   
-### Pasos generales para ir el MD al PDF
+### Pasos generales para ir de MD a PDF
 
 #### Vía rápida
 
@@ -60,7 +60,7 @@
     * Utiliza la distribución de TeX para generar el PDF.
     * Permite una personalización limitada del PDF.
   
-### Vía personalizada
+#### Vía personalizada
 
 1. Contar con un archivo Markdown.
 2. Utilizar Pandoc o `pt-pandog` para crear el archivo de TeX:
