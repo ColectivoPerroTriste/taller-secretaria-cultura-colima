@@ -48,3 +48,4 @@
 	* Contenidos digitales (infografías, GIF, carteles, materiales audiovisuales).
 	* Materiales didácticos (documentación, manuales, tutoriales).
 	* Plataformas híbridas (videojuegos, *appbook*).
+* Siempre recordar: que un producto solo tenga soporte digital no significa que no requiera de cuidado editorial.
