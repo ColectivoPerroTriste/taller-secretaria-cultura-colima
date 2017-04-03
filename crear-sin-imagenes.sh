@@ -11,7 +11,7 @@ sed -i "s/\!\[\](.*$/\n/g" todo.md
 sed -i "s/\s*$//g" todo.md 
 
 # Crea el archivo PDF
-pandoc todo.md metadata.yaml -s -o todo.pdf
+pandoc todo.md metadata.yaml -s -o todo-sin-imagenes.pdf
 
 # Al final
 # Remueve el archivo
