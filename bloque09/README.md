@@ -4,6 +4,7 @@
 
 * Artículos.
 	* [DRM en Electronic Frontier Foundation](https://www.eff.org/issues/drm)
+	* [What is DRM? ](https://defectivebydesign.org/what_is_drm_digital_restrictions_management)
 	* [*América Latina: la balanza comercial en propiedad intelectual*](recursos/cerlalc.pdf)
 	* [«¿*Software* libre o de élite?»](https://archive.org/details/PropiedadIntelectual)
 * Manifiestos.
