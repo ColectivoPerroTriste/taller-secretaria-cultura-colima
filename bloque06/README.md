@@ -31,7 +31,7 @@
 	* Scripts para agilizar o automatizar ciertos procesos del quehacer editorial.
 	* Desarrollo continuo basado en el modelo del *single source and online publishing*.
 	* Las herramientas pueden utilizarse de tres maneras:
-		* Escribiendo ruby en la terminal y arrastrando el script correspondiente.
+		* Escribiendo `ruby` en la terminal y arrastrando el script correspondiente.
 		* Arrastrando el script deseado a la terminal.
 		* Instalando los binarios para utilizar los script directamente.
 	* No tener miedo de usar la consola, es más amigable de lo que parece. ;)
