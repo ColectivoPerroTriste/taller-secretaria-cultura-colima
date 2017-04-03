@@ -1,4 +1,4 @@
-# Crea el archivo con todos los contenidos
+# Crea el archivo madre con todos los contenidos
 cat */*.md > todo.md
 
 # Añade un salto de línea cada encabezado 1
@@ -13,8 +13,7 @@ sed -i "s/\s*$//g" todo.md
 # Crea el archivo PDF
 pandoc todo.md metadata.yaml -s -o todo-sin-imagenes.pdf
 
-# Al final
-# Remueve el archivo
+# Remueve el archivo madre
 rm todo.md
 
 

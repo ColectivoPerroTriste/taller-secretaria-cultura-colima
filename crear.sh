@@ -1,4 +1,4 @@
-# Crea el archivo con todos los contenidos
+# Crea el archivo madre con todos los contenidos
 cat */*.md > todo.md
 
 # Añade un salto de línea cada encabezado 1
@@ -10,16 +10,15 @@ sed -i "s/(recursos/(.recursos/g" todo.md
 # Elimina espacios de más
 sed -i "s/\s*$//g" todo.md 
 
-# Crea una carpeta con las imágenes
+# Crea una carpeta para las imágenes
 mkdir .recursos
 
-# Copia todas las imágenes
+# Copia todas las imágenes a la carpeta creada
 cp */recursos/* .recursos/
 
 # Crea el archivo PDF
 pandoc todo.md metadata.yaml -s -o todo.pdf
 
-# Al final
 # Remueve la carpeta con las imágenes
 rm -rf .recursos
 

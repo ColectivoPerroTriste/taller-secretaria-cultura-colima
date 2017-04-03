@@ -81,10 +81,11 @@ Bloque 11
 Bloque 12
 * Edición digital como empoderamiento tecnológico.
 
-## Generación de PDF
+## PDF para impresión
 
-Para crear un PDF de los contenidos escribe `./crear.sh` o `sh crear.sh` 
-o `bash crear.sh` desde la terminal.
+¿No te gusta el repositorio o prefieres tenerlo en papel?
 
-Para crear un PDF sin imágenes de los contenidos escribe `./crear-sin-imagenes.sh` 
-o `sh crear-sin-imagenes.sh` o `bash crear-sin-imagenes.sh` desde la terminal.
+Para crear un PDF con los contenidos escribe `./crear.sh` o `sh crear.sh` 
+o `bash crear.sh` desde la terminal. Si lo quieres sin imágenes, escribe 
+`./crear-sin-imagenes.sh` o `sh crear-sin-imagenes.sh` o `bash crear-sin-imagenes.sh` 
+desde la terminal.
