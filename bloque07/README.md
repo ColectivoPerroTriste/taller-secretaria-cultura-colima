@@ -29,6 +29,8 @@
 
 ## Contenidos del bloque
 
+![](recursos/imagen07-01.png)
+
 ### Relación entre TeX y LaTeX
 
 * TeX.

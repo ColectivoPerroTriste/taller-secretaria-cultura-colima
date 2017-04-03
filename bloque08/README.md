@@ -27,6 +27,8 @@
 
 ## Contenidos del bloque
 
+![](recursos/imagen08-01.gif)
+
 ### XML como intermediario
 
 * ¿Qué es el XML?
