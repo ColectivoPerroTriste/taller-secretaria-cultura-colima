@@ -24,11 +24,11 @@
 
 ## Contenidos del bloque
 
-### Edición libre y libre acceso: más allá de Creative Commons.
+### Edición libre y libre acceso: más allá de Creative Commons
 
 > Todo trabajo creativo es una derivación y nace de un bagaje cultural previo.
 
-[![Video: All creative work is derivative](https://img.youtube.com/vi/32jiDgQmYPs/0.jpg)](https://www.youtube.com/watch?v=32jiDgQmYPs)
+[Video: All creative work is derivative.](https://www.youtube.com/watch?v=32jiDgQmYPs)
 
 * Cultura libre y alternativas al *copyright*.
 	* Creative Commons (CC).
