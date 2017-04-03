@@ -30,65 +30,61 @@ Opcional pero muy recomendado:
 
 ### Lunes
 
-#### Bloque 1
-
+Bloque 1
 * Breve historia de la edición digital.
 
-#### Bloque 2
-
+Bloque 2
 * ¿Qué es la edición digital?
 * ¿Qué son las publicaciones digitales?
 
 ### Martes
 
-#### Bloque 3
-
+Bloque 3
 * Procesos tradicionales de publicación.
 * Los procesos tradicionales en el contexto digital: edición cíclica.
 
-#### Bloque 4
-
+Bloque 4
 * Nuevos procesos de publicación para el contexto digital: edición ramificada.
 * *Single source and online publishing*.
 
 ### Miércoles
 
-#### Bloque 5
-
+Bloque 5
 * Formato Markdown como archivo madre.
 * Del Markdown a *web*.
 
-#### Bloque 6
-
+Bloque 6
 * Del Markdown al EPUB (y MOBI).
 
 ### Jueves
 
-#### Bloque 7
-
+Bloque 7
 * Del Markdown al PDF con TeX.
 
-#### Bloque 8
-
+Bloque 8
 * Del Markdown al PDF con InDesign.
 
 ### Viernes
 
-#### Bloque 9
-
+Bloque 9
 * Edición digital y propiedad intelectual: más allá del DRM.
 
-#### Bloque 10
-
+Bloque 10
 * Distribuidores digitales comunes: iTunes, Google Play, Amazon y Gandhi.
 
 ### Sábado
 
-#### Bloque 11
-
+Bloque 11
 * Edición libre y libre acceso: más allá del Creative Commons.
 * Distribuidores digitales alternativos: Leanpub, Internet Archive, LibGen y Aaaaarg.
 
-#### Bloque 12
-
+Bloque 12
 * Edición digital como empoderamiento tecnológico.
+
+## Generación de PDF
+
+Para crear un PDF de los contenidos escribe `./crear.sh` o `sh crear.sh` 
+o `bash crear.sh` desde la terminal.
+
+Para crear un PDF sin imágenes de los contenidos escribe `./crear-sin-imagenes.sh` 
+o `sh crear-sin-imagenes.sh` o `bash crear-sin-imagenes.sh` desde la terminal.
