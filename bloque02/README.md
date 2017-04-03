@@ -31,7 +31,7 @@
 * No solo los libros requieren de edición.
 * Todas las personas hacemos edición digital: discutir ejemplos.
 
-![](recursos/imagen01.png)
+![](recursos/imagen02-01.png)
 	
 ### ¿Qué son las publicaciones digitales?
 

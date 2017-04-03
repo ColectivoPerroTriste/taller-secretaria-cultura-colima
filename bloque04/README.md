@@ -3,15 +3,15 @@
 ## Recursos
 
 * Lecturas.
-  * [«¿Single source y online publishing, fuera de la realidad?»](http://marianaeguaras.com/single-source-online-publishing-la-realidad/)
-  * [«¿Qué es Git/GitHub»](https://barradevblog.wordpress.com/2013/01/21/que-es-gitgithub/)
+	* [«¿Single source y online publishing, fuera de la realidad?»](http://marianaeguaras.com/single-source-online-publishing-la-realidad/)
+	* [«¿Qué es Git/GitHub»](https://barradevblog.wordpress.com/2013/01/21/que-es-gitgithub/)
 * *Software*.
-  * [Git](https://git-scm.com/)
-  * [Git en Wikipedia](https://es.wikipedia.org/wiki/Git)
-  * [Herramientas de Perro Triste](http://herramientas.perrotriste.io/)
+	* [Git](https://git-scm.com/)
+	* [Git en Wikipedia](https://es.wikipedia.org/wiki/Git)
+	* [Herramientas de Perro Triste](http://herramientas.perrotriste.io/)
 * Tutoriales.
-  * [Git en 15 minutos](https://try.github.io/levels/1/challenges/1)
-  * [Aprende git](https://www.codecademy.com/learn/learn-git)
+	* [Git en 15 minutos](https://try.github.io/levels/1/challenges/1)
+	* [Aprende git](https://www.codecademy.com/learn/learn-git)
 
 ## Contenidos del bloque
 
@@ -25,16 +25,16 @@
 ### *Single source and online publishing* (SSOP)
 
 * *Single source*.
-  * «Un Archivo para gobernarlos a todos».
-  * De lo general a lo particular.
+	* «Un Archivo para gobernarlos a todos».
+	* De lo general a lo particular.
   
-![](recursos/imagen01.jpg) 
+![](recursos/imagen04-01.jpg) 
  
 * *Online publishing*.
-  * ¡Al servidor!
-  * Repositorio con gestor de versiones (p. ej. git).
+	* ¡Al servidor!
+	* Repositorio con gestor de versiones (p. ej. git).
 
-![](recursos/imagen02.jpg)
+![](recursos/imagen04-02.jpg)
 
 ### Ventajas del SSOP
 
@@ -47,10 +47,10 @@
 
 ### SSOP con sabor a perro
 
-![](recursos/imagen03.jpg)
+![](recursos/imagen04-03.jpg)
 
 * [Herramientas de Perro Triste](http://herramientas.perrotriste.io/).
-  * Del Markdown a EPUB, PDF, MOBI, *web* y más.
-  * Uso desde la terminal.
+	* Del Markdown a EPUB, PDF, MOBI, *web* y más.
+	* Uso desde la terminal.
   
 > ¿Listos para talachar?
