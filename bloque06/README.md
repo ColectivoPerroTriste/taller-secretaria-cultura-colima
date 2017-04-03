@@ -36,7 +36,7 @@
 		* Instalando los binarios para utilizar los script directamente.
 	* No tener miedo de usar la consola, es más amigable de lo que parece. ;)
 		
-![](recursos/gif01.gif)
+![](recursos/gif06-01.gif)
 
 * Convertir EPUB a MOBI
 	* Formato exclusivo para plataformas Kindle (Amazon).

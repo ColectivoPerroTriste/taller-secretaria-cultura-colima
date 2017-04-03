@@ -1,13 +1,15 @@
 # El maravilloso mundo de Markdown
 
 ## *Software* necesario
+
 * [Geany](http://www.geany.org/)
 * [Mozilla firefox](https://www.mozilla.org/en-US/firefox/new/)
 * [Markdown viewer](https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer/)
 * [Pandoc](http://pandoc.org/)
-* [Pandog](https://github.com/ColectivoPerroTriste/Herramientas/tree/master/Archivo-madre/1-Pandog)
+* [`pt-pandog`](https://github.com/ColectivoPerroTriste/Herramientas/tree/master/Archivo-madre/1-Pandog)
 
 ## Recursos
+
 * [Sintaxis básica de Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Documentación oficial de Markdown](https://daringfireball.net/projects/markdown/syntax)
 * [The ultimate guide to Markdown](https://blog.ghost.org/markdown/)
@@ -27,7 +29,7 @@
 	* Brinda estructura, no solo apariencia.
 	* Posibilidad de conversión a otros lenguajes y formatos.
 
-![](recursos/gif01.gif)
+![](recursos/gif05-01.gif)
 	
 * Ventajas específicas para el trabajo editorial.
 	* Permite revisiones y correcciones sin distracción.
@@ -43,17 +45,27 @@
 	* Cuidar desde un inicio el marcado correcto de encabezados, párrafos, bloques de cita, itálicas, negritas, etcétera.
 * ¡Manos a la obra! Comencemos a dar formato en Markdown...
 
-![](recursos/gif02.gif)
+![](recursos/gif05-02.gif)
 
 ### Del Markdown a web (HTML)
 
 * ¿Para qué convertir de Markdown a web?
 	* Inicio de edición ramificada, no formato final.
 	* Es necesario convertir a HTML para acceder a soportes que requieren HTML (páginas web o EPUB).
-* Conversión de Markdown a HTML con Pandoc.
-	* Instalar Pandoc (revisar link desde sección de Recursos).
-	* `pandoc <nombre del archivo de entrada>.md -o <nombre del archivo de salida>.html`
-* Si se requiere mantener etiquetas particulares como identificadores o clases en el archivo madre también se puede emplear Pandog (link en sección de Recursos).
+
+### Pasos para ir del MD a *web*
+
+1. Tener instalado Pandoc y `pt-pandog`.
+2. Contar con un archivo Markdown.
+3. Utilizar `pt-pandog` para crear el archivo HTML:
+
+    ```
+    pt-pandog -i archivo-a-convertir.md -o index.html
+    ```
+    
+8. ¡Listo!
+	* Ahora puedes abrir el documento en cualquier explorador e incluso
+	subirlo a un servidor para tener una página web.
 
 
 
