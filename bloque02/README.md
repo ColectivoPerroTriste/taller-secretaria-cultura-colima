@@ -32,7 +32,7 @@
 * Todas las personas hacemos edición digital: discutir ejemplos.
 
 ![](recursos/imagen02-01.png)
-​	
+
 ### ¿Qué son las publicaciones digitales?
 
 * Discusión: ¿Qué es un producto editorial?
