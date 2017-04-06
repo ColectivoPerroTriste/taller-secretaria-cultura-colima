@@ -10,6 +10,7 @@
 
 ## Recursos
 
+* [Guía para Markdown en PDF (descargable)](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) :star:
 * [Sintaxis adicional de Markdown](https://michelf.ca/projects/php-markdown/extra/)
 * [Sintaxis básica de Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Documentación oficial de Markdown](https://daringfireball.net/projects/markdown/syntax)
