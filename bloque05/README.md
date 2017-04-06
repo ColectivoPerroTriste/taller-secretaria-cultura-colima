@@ -10,6 +10,7 @@
 
 ## Recursos
 
+* [Sintaxis adicional de Markdown](https://michelf.ca/projects/php-markdown/extra/)
 * [Sintaxis básica de Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Documentación oficial de Markdown](https://daringfireball.net/projects/markdown/syntax)
 * [The ultimate guide to Markdown](https://blog.ghost.org/markdown/)
@@ -50,6 +51,10 @@
 
 ![](recursos/gif05-02.gif)
 
+* Estructura básica de Markdown. (Revisar también documentación sen sección de recursos para casos específicos).
+
+![](recursos/img05-02.png)
+
 ### Estilos predeterminados de Perro Triste
 
 Los estilos predeterminados de Perro Triste añaden ciertas características adicionales de diseño.
@@ -76,8 +81,8 @@ Para incluirlos en un párrafo solo basta agregarlos al final entre llaves.
 Por ejemplo, si deseamos un párrafo a la derecha:
 
 ```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed odio metus. 
-Integer blandit erat vel ex placerat luctus. Vestibulum consequat, arcu ut egestas 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed odio metus.
+Integer blandit erat vel ex placerat luctus. Vestibulum consequat, arcu ut egestas
 fermentum, justo lectus consequat quam, eu tempus est quam id nisl. {.derecha}
 ```
 
@@ -92,7 +97,7 @@ También es posible agregar más de un estilo. Por ejemplo, si deseamos un párr
 a la izquierda y con un espacio arriba:
 
 ```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed odio metus. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed odio metus.
 Integer blandit erat vel ex placerat luctus. {.izquierda .espacio-arriba1}
 ```
 
