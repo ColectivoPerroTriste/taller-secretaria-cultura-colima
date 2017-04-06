@@ -52,8 +52,8 @@
 
 ### Estilos predeterminados de Perro Triste
 
-Los estilos predeterminados de Perro Triste añade ciertas características adicionales en diseño.
-**Estas características no son visualizables con la extensión Firefox**, sino hasta que pasemos el
+Los estilos predeterminados de Perro Triste añaden ciertas características adicionales de diseño.
+**Estas características no son visualizables con la extensión de Firefox**, sino hasta que pasemos el
 documento de Markdown a web. Los estilos más comunes son:
 
 * `.justificado`. Alineación justificada al texto. **Por defecto los párrafos tienen esta alineación**.
