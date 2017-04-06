@@ -47,6 +47,52 @@
 
 ![](recursos/gif05-02.gif)
 
+### Estilos predeterminados de Perro Triste
+
+Los estilos predeterminados de Perro Triste añade ciertas características adicionales en diseño.
+**Estas características no son visualizables con la extensión Firefox**, sino hasta que pasemos el
+documento de Markdown a web. Los estilos más comunes son:
+
+* `.justificado`. Alineación justificada al texto. **Por defecto los párrafos tienen esta alineación**.
+* `.derecha`. Alineación a la derecha del texto.
+* `.izquierda`. Alineación a la izquierda del texto. **Por defecto los encabezados tienen esta alineación**.
+* `.centrado`. Alineación centrada del texto.
+* `.frances`. Alineación francesa del texto.
+* `.sangria`. Genera una sangría. **Por defecto los párrafos *consecutivos* tienen sangría**.
+* `.sin-sangria`. Elimina la sangría por defecto.
+* `.sin-separacion`. Evita la separación silábica. **Por defecto todos los encabezados carecen de separación**.
+* `.capitular`. Añade una letra capitular.
+* `.versal`. Muestra el texto en mayúsculas.
+* `.versalita`. Muestra el texto en versalitas.
+* `.epigrafe`. Muestra el texto como un epígrafe.
+* `.espacio-arriba1`. Añade un salto de línea arriba.
+* `.espacio-arriba2`. Añade dos saltos de línea arriba.
+* `.espacio-arriba3`. Añade tres saltos de línea arriba.
+
+Para incluirlos en un párrafo solo basta agregarlos al final entre llaves.
+Por ejemplo, si deseamos un párrafo a la derecha:
+
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed odio metus. 
+Integer blandit erat vel ex placerat luctus. Vestibulum consequat, arcu ut egestas 
+fermentum, justo lectus consequat quam, eu tempus est quam id nisl. {.derecha}
+```
+
+Para incuirlos en solo una parte del párrafo basta colocar esta parte entre corchetes
+seguido del estilo entre llaves. Por ejemplo, si deseamos una letra capitular:
+
+```
+[L]{.capitular}orem ipsum dolor sit amet, consectetur adipiscing elit.
+```
+
+También es posible agregar más de un estilo. Por ejemplo, si deseamos un párrafo
+a la izquierda y con un espacio arriba:
+
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed odio metus. 
+Integer blandit erat vel ex placerat luctus. {.izquierda .espacio-arriba1}
+```
+
 ### Del Markdown a web (HTML)
 
 * ¿Para qué convertir de Markdown a web?
