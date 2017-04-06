@@ -24,13 +24,16 @@
 * Ventajas frente a otros lenguajes de marcado (HTML o TeX, por ejemplo).
 	* Rápido, simple, legible e intuitivo.
 	* Facilita tanto la escritura como la lectura de documentos.
+
+![](recursos/img05-01.png)
+
 * Ventajas frente a programas de edición de texto.
 	* Fluidez en la escritura.
 	* Brinda estructura, no solo apariencia.
 	* Posibilidad de conversión a otros lenguajes y formatos.
 
 ![](recursos/gif05-01.gif)
-	
+
 * Ventajas específicas para el trabajo editorial.
 	* Permite revisiones y correcciones sin distracción.
 	* Puede ser modificado sin necesidad de profundos conocimientos del código.
@@ -108,11 +111,7 @@ Integer blandit erat vel ex placerat luctus. {.izquierda .espacio-arriba1}
     ```
     pt-pandog -i archivo-a-convertir.md -o index.html
     ```
-    
+
 8. ¡Listo!
 	* Ahora puedes abrir el documento en cualquier explorador e incluso
 	subirlo a un servidor para tener una página web.
-
-
-
-
