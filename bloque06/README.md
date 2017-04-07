@@ -10,6 +10,9 @@
 
 ## Recursos
 
+* [Curso de HTML y CSS en línea](https://www.codecademy.com/learn/learn-html-css)
+* [Documentación oficial de HTML](https://www.w3schools.com/TAgs/)
+* [Documentación oficial de CSS](https://www.w3schools.com/cssref/)
 * [EPUB Libre](https://www.epublibre.org/)
 * [International Digital Publishing Forum](http://idpf.org/)
 * [Estándares y documentación oficial para EPUB](http://epubzone.org/)
