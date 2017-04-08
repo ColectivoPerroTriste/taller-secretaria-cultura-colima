@@ -24,6 +24,10 @@
 * XML en la academia.
 	* [Journal Article Tag Suite (JATS)](https://jats.nlm.nih.gov/)
 	* [SciELO](http://www.scielo.org.mx/scielo.php)
+* Scribus: alternativa a InDesign.
+	* [Scribus](https://www.scribus.net/)
+	* [Documentación de Scribus](https://wiki.scribus.net/canvas/Help:TOC)
+	* [Manual de Scribus](https://scribusdocs.files.wordpress.com/2011/05/scribus-manual-de-usuario.pdf)
 
 ## Contenidos del bloque
 
