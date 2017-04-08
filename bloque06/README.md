@@ -10,6 +10,7 @@
 
 ## Recursos
 
+* [Fuentes estandarizadas](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
 * [Curso de HTML y CSS en línea](https://www.codecademy.com/learn/learn-html-css)
 * [Documentación oficial de HTML](https://www.w3schools.com/TAgs/)
 * [Documentación oficial de CSS](https://www.w3schools.com/cssref/)
