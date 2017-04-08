@@ -10,14 +10,22 @@
 
 ## Recursos
 
-* [Fuentes estandarizadas](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
-* [Curso de HTML y CSS en línea](https://www.codecademy.com/learn/learn-html-css)
-* [Documentación oficial de HTML](https://www.w3schools.com/TAgs/)
-* [Documentación oficial de CSS](https://www.w3schools.com/cssref/)
-* [EPUB Libre](https://www.epublibre.org/)
-* [International Digital Publishing Forum](http://idpf.org/)
-* [Estándares y documentación oficial para EPUB](http://epubzone.org/)
-* [Ejercicio para herramientas de Perro Triste](https://github.com/ColectivoPerroTriste/Herramientas-Ejercicio)
+* Renderizadores para EPUB.
+	* [EPUB Reader (extensión para Firefox)](https://addons.mozilla.org/es/firefox/addon/epubreader/)
+	* [Readium (extensión para Chrome)](http://readium.org/)
+	* [Adobe Digital Editions (no recomendado pero también gratuito)](http://www.adobe.com/mx/solutions/ebook/digital-editions.html)
+
+* HTML y CSS.
+	* [Curso de HTML y CSS en línea](https://www.codecademy.com/learn/learn-html-css)
+	* [Documentación oficial de HTML](https://www.w3schools.com/TAgs/)
+	* [Documentación oficial de CSS](https://www.w3schools.com/cssref/)
+	* [Fuentes estandarizadas](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
+
+* Documentación sobre EPUB
+	* [EPUB Libre](https://www.epublibre.org/)
+	* [International Digital Publishing Forum](http://idpf.org/)
+	* [Estándares y documentación oficial para EPUB](http://epubzone.org/)
+	* [Ejercicio para herramientas de Perro Triste](https://github.com/ColectivoPerroTriste/Herramientas-Ejercicio)
 
 ## Contenidos del bloque
 
