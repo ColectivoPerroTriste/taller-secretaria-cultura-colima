@@ -35,9 +35,9 @@
 		* Licencias que permiten establecer «solo algunos derechos reservados». No siempre son libres.
 		* No rivaliza con los derechos de autor, sino que busca alternativas para compartir de forma libre y segura.
 		* Aunque propone alternativas, no busca transformar el modelo económico de la cultura.
-	* Copyleft.
+	* *Copyleft*.
 		* Permitir libre distribución de copias y modificaciones, preservando derechos en versiones derivadas.
-		* Especificidad: las licencias Copyleft siempre son hereditarias.
+		* Especificidad: las licencias *copyleft* siempre son hereditarias.
 	* *Software* libre, cuatro libertades:
 		1. usar con cualquier propósito;
 		2. estudiar cómo funciona y modificarlo;
