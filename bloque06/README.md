@@ -47,6 +47,17 @@
 		* Arrastrando el script deseado a la terminal.
 		* Instalando los binarios para utilizar los script directamente.
 	* No tener miedo de usar la consola, es más amigable de lo que parece. ;)
+
+* Pasos generales para crear el EPUB
+	1. Crear MD a partir de un procesador de texto.
+	2. Dar formato deseado al MD.
+	3. Generar XHTML con `pt-pandog`.
+	4. Crear el proyecto EPUB con `pt-creator`.
+	5. Incluir XHTML al proyecto EPUB.
+	6. Modificar metadatos presentes en `meta-data.yaml`.
+	7. Generar el EPUB con `pt-recreator`.
+	8. Verificar el EPUB con EpubCheck.
+	9. ¡Listo!
 		
 ![](recursos/gif06-01.gif)
 
